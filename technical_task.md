@@ -94,24 +94,29 @@ Below is a table comparing a set of queries against the top K most relevant page
 ### Required
 Who at Bain & Company is an expert in the luxury sector?
 - Bain Report - Page 2
+  
 What should executives do to use AI to transform their businesses?
 - BCG Report - Page 5
 - BCG Report - Page 18
 - McKinsey report - Page 14
 - McKinsey report - Page 9
 - Bain Report - Page 38
+  
 Summarise Bain’s view on AI in the luxury industry	Bain Report - Page 4
 - Bain Report - Page 6
+  
 What are the expected gains, boosts, and transformations of AI? Provide a numerical answer	BCG Report - Page 10
 - BCG Report - Page 11
 - BCG Report - Page 12
 - Bain Report - Page 18
 - Bain Report - Page 21
+  
 Find example case studies of AI being successfully used to transform a business	Bain Report - Page 11
 - Bain Report - Page 23
 - Bain Report - Page 35
 - BCG Report - Page 11
 - BCG Report - Page 12
+  
 When did Salesforce release Einstein GPT?
 - McKinsey Report - Page 3
 
